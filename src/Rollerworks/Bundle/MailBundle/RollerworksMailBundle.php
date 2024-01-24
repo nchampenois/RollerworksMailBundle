@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Rollerworks\MailBundle;
+namespace Rollerworks\Bundle\MailBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
